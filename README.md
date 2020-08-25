@@ -4,6 +4,8 @@ for every calculation and training.
 It also contains code for comparing the performance with Pytorch implementation.
 
 Lab2- Comparing linear model and neural network with sogmoid activation on MNIST dataset.
-Lab3-
-Lab4-
+
+Lab3- Comparing Mixup augmentation, standard augmentation and cutout augmentation on MNIST dataset.
+
+Lab4- Adding noise to dataset and comparing the dropout vs regular model performance.
 
